@@ -1,7 +1,7 @@
 import glob
 import os
 
-# cpio files will be moved into `n` directories created inside /tmp
+# cpio files will be moved into `n` directories created inside `destdir`
 srcdir = '/mnt/local1/data/I1K/i1k_cpio_256'
 destdir = '/tmp'
 n = 2
